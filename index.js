@@ -6,8 +6,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 
 // array of questions for user
-const questions = [
-    {
+const questions = [{
         type: "input",
         message: "What is  your full name?",
         name: "name",
