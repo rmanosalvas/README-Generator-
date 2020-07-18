@@ -1,6 +1,6 @@
 
-    # title
-    By ricardo
+    # README Generator
+    By Ricardo Manosalvas
     
   
     ## Table of Contents
@@ -16,68 +16,68 @@
   
     ## Description
     
-    -------
-    description
-    -------
+    
+    This application is to help create a professional README by inputting your information and have it generated for you. I made this application so that developers can spend less time on their readme's and more time focussing on the code itself. 
+    
   
   
     ## Installation
   
-    -------
+    
     In order to use the application you  need to run:
     
-    '''
-    _undefined_ 
-    '''
+    
+    undefined
+    
     
     on the command line.
-    -------
+    
   
   
     ## Usage
   
-    -------
-    _app_
-    ------- 
+    
+    To start the application, type 'node index.js'
+     
   
   
     ## License
   
-    -------
+    
     This repo includes the licence(s):
   
-    '''
-    _Apache 2.0_
-    '''
+    
+    ISC
+    
   
-    -------
+    
   
   
     ## Contributing
   
-    -------
+    
     How to add to the repo:
   
-    app
+    I would like to incorporate badges moving forward
   
-    -------
+    
   
   
     ## Tests
   
-    -------
+    
     In order to use the application you  need to run:
     
-    '''
-    _test_
-    '''
+    
+    npm test
+    
     
     on the command line.
-    -------
+    
   
     ## Questions
   
-    If you have any questions about the repo, please feel free to reach me directly at manosalvas.
-    You can find more of my work through my GitHub account _[class]_  (http://www.github.com/class/).
+    If you have any questions about the repo, please feel free to reach me directly at manosalvas2013@gmail.com.
+    You can find more of my work through my GitHub account _[rmanosalvas]_  (http://www.github.com/rmanosalvas/).
   
     

@@ -18,64 +18,64 @@ function generateMarkdown(data) {
   
     ## Description
     
-    -------
+    
     ${data.description}
-    -------
+    
   
   
     ## Installation
   
-    -------
+    
     In order to use the application you  need to run:
     
-    '''
-    _${data.installation}_ 
-    '''
+    
+    ${data.installation}
+    
     
     on the command line.
-    -------
+    
   
   
     ## Usage
   
-    -------
-    _${data.usage}_
-    ------- 
+    
+    ${data.usage}
+     
   
   
     ## License
   
-    -------
+    
     This repo includes the licence(s):
   
-    '''
-    _${data.license}_
-    '''
+    
+    ${data.license}
+    
   
-    -------
+    
   
   
     ## Contributing
   
-    -------
+    
     How to add to the repo:
   
     ${data.contributing}
   
-    -------
+    
   
   
     ## Tests
   
-    -------
+    
     In order to use the application you  need to run:
     
-    '''
-    _${data.test}_
-    '''
+    
+    ${data.test}
+    
     
     on the command line.
-    -------
+    
   
     ## Questions
   
